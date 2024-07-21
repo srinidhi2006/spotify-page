@@ -8,3 +8,6 @@ The goal is to accurately replicate the user interface and design elements of on
 - Navigation bar with Spotify logo, search bar, and profile icon
 - Hero section with promotional content
 - Featured playlists and albums section
+
+- Live Site URL:
+- https://srinidhi2006.github.io/spotify-page/
